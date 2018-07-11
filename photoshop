@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Photoshop</title>
+
+  </head>
+  <center>
+  <body>
+    <h1><font color=blue>Photoshop</h1>
+      <h2>使用した写真</h2>
+      <img src="material./pepper.jpg" alt="o">
+      <a href="https://japanese.engadget.com/2018/05/21/pepper/">使用した画像のリンク</a>
+この写真のpepperくんの数を増やしていこうと思います。
+
+  </body>
+</html>
